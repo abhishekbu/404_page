@@ -35,7 +35,8 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://github.com/abhishekbu/404_page/blob/master/images/screenshot.png)
+![screenshot](https://github.com/abhishekbu/404_page/blob/master/images/screenshot_mobile.png)
 
 
 - You can see the demo here <a href="https://focused-morse-e77707.netlify.app/">404 page</a>
@@ -58,6 +59,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- GitHub [@your-username](https://github.com/abhishekbu)
